@@ -32,7 +32,7 @@ To Run this project
 
 ## Screenshots
 
-Screenshot.png
+![Screenshot](https://github.com/shivakumarbdoddamani/StackOverflow/assets/59007223/e6c12379-f8e3-46eb-903d-616c3d1567d9)
 
 ## 🔗 Links
 
@@ -42,4 +42,4 @@ Screenshot.png
 
 ## Support
 
-For support, email shivakumarbdoddamani@gmail.com or connect with me on Linkedin.
+For support or any help, email to shivakumarbdoddamani@gmail.com.
