@@ -16,10 +16,10 @@ Note: If it shows the same error restart your code editor or laptop and it will 
 
 Follow the steps to run the code in ios.
 
-Step 1: Clone the project from github repo. 
-Step 2: Open it in any code editor (I prefer VS code). 
-Step 3: Install node_modules by running npm install command in terminal. 
-Step 4: Open the XCode project of your app, located on ios/StackOverflow.xcworkspace. Then, you can achieve this by connecting the iPhone on your Mac computer, and simply build/run the app on the iPhone real device by using XCode. 
+Step 1: Clone the project from github repo.&nbsp; 
+Step 2: Open it in any code editor (I prefer VS code).&nbsp; 
+Step 3: Install node_modules by running npm install command in terminal. &nbsp; 
+Step 4: Open the XCode project of your app, located on ios/StackOverflow.xcworkspace. Then, you can achieve this by connecting the iPhone on your Mac computer, and simply build/run the app on the iPhone real device by using XCode. &nbsp;
 
 Step 5: Or you can go back to the code editor and try to run your app again using
 
